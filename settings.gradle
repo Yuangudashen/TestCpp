@@ -1,0 +1,1 @@
+include ':app', ':makecpplib', ':testcpplib', ':testnativelib', ':testmakeso1', ':testmakefingerprint', ':mpchatlib'

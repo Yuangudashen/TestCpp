@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/makecpplib" />
+            <option value="$PROJECT_DIR$/mpchatlib" />
+            <option value="$PROJECT_DIR$/testcpplib" />
+            <option value="$PROJECT_DIR$/testmakefingerprint" />
+            <option value="$PROJECT_DIR$/testmakeso1" />
+            <option value="$PROJECT_DIR$/testnativelib" />
+          </set>
+        </option>
+        <option name="resolveModulePerSourceSet" value="false" />
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
